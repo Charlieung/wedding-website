@@ -84,6 +84,9 @@
     }
   }
   .timeline-heading {
+    .time-calendar {
+      @include nav-font;
+    }
     h4 {
       margin-top: 0;
       color: inherit;
