@@ -12,7 +12,8 @@
 en: &DEFAULT_EN
   header:
     title: <br/>Leung Wild & Free
-    text: July 3rd, 2021
+    text: 7 . 3 . 2021
+    # text: July 3rd, 2021
     button: RSVP
     buttonlink: "https://forms.gle/ef37KtgBmBmJRRnk6"
 
@@ -54,7 +55,7 @@ en: &DEFAULT_EN
         desc: "Like all modern fairytales, we first discovered each other on Coffee Meets Bagel. After a week of banter over the phone, we met in a tiny dimly lit dive: two people, having only impressions of each other off 5 pictures and 3 paragraphs of text. Maybe it was her cute poses and aggressively bubbly love for artsy fartsy things, or maybe it was his smart charm and flirty comments – no matter the reason, the connection we found started our journey"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "A Place Called Home"
+      - title: "Home Sweet Home"
         year: "October 4th, 2018"
         desc: "From the bucolic bustle of Upper East Side, we made the decision to move in together. While we had searched for almost half a year, Erica fell in love with the flowery gardens, abundance of puppies (2 and 4 legged), and the amazing food of Park Slope."
         image: assets/img/timeline/2.jpg

@@ -3,13 +3,14 @@
   margin-bottom: 50px;
   text-align: center;
   .team-name {
-    @include script-font;
+    @include script-font-3;
   }
   img {
     object-fit: cover;
     width: 225px;
     height: 225px;
     border: 7px solid fade-out($black, 0.9);
+    // border: 7px solid $gray-900;
   }
   h4 {
     margin-top: 25px;
