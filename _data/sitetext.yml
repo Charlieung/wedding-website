@@ -111,9 +111,41 @@ en: &DEFAULT_EN
         role: "First Child"
         image: assets/img/team/bella.jpg
 
+  faq:
+    title: "Questions"
+    questions:
+      - question: "What should I wear? Is there a dress code?"
+        answer: "The dress code for our wedding is cocktail attire. Ladies should wear cocktail dresses, and the gentlemen should wear a suit jacket or a sports coat."
+      - question: "What will the weather be like this time of year?"
+        answer: "The weather is expected to be hot, but the event aside from the ceremony (weather allowing) will take place indoors."
+      - question: "Will there be alcohol?"
+        answer: "Yes! We have an open bar at our event."
+      - question: "What should I do if I can’t make it?"
+        answer: "You will be missed! If you can not make it to the wedding, please let us know as soon as possible and RSVP “no,” so we can plan accordingly."
+      - question: "How do I get to the venue?"
+        answer: "The best way is to take the LIRR (Atlantic Ave / Penn Station -> (Ronkonkoma bound) Mineola -> (Oyster Bay Bound) Glen Head. From there you can get a brief Uber, or if you do not mind walking it is only about 15-20min walking to the destination"
+      - question: "What time should I arrive"
+        answer: "We recommend that you arrive 15 minutes before the start of the ceremony, to make sure everyone is on time and we can get the party started as scheduled!"
+      - question: "Will there be parking?"
+        answer: "Yes there will be free parking! The venue has a large parking lot."
+      - question: "Are kids welcome?"
+        answer: "Yes you may bring your kids!"
+      - question: "Can I bring a date?"
+        answer: "If you would like to bring your significant other, we would love to accomodate them! Please RSVP with their name on the form."
+      - question: "When is the RSVP deadline?"
+        answer: "Our RSVP deadline is a month before the event - June 3rd, 2021."
+      - question: "Are the ceremony and reception location wheelchair accessible?"
+        answer: "Yes!"
+      - question: "Will food and drinks be served at the reception? What kind of food?"
+        answer: "Yes, we will have food stations during cocktail hour followed by a sit-down meal during the reception."
+      - question: "May I take a centerpiece/candle/flowers home as a souvenir?"
+        answer: "Feel free to take a floral centerpiece arrangement home! Other decor pieces are rented, so we would really appreciate it if they were left as is."
+      - question: Can I take and post pictures of the wedding on social media?
+        answer: "Yes, we encourage guests to post pictures on to their social media channels. We would greatly appreciate it if you tag each photo with our wedding hashtag <b>#leungwildandfree</b> so we can keep track of all of your pictures!"
+
   contact:
     title: "Contact Us"
-    text: "If you have any questions, please send us a note!"
+    text: "If you have any other questions, please send us a note!"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

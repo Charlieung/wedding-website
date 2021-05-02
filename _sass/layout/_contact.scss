@@ -5,6 +5,9 @@ section#contact {
   background-image: url("#{$contact-image}");
   background-repeat: no-repeat;
   background-position: center;
+  .h3 {
+    padding-bottom: 0px
+  }
   .section-heading {
     color: $white;
     text-align: left;
