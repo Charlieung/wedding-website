@@ -30,7 +30,7 @@ header.masthead {
     }
   }
   .btn {
-    @include body-font;
+    @include nav-font;
   }
 }
 @media(min-width:768px) {
