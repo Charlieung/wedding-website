@@ -9,7 +9,7 @@
       </div>
       {%- for item in site.data.sitetext[site.locale].faq.questions -%}
       <div class="container">
-        <h4 class="section-heading">{{ item.question }}</h4>
+        <h4 style="font-family:Arial, Helvetica, sans-serif">{{ item.question }}</h4>
         <p style="font-family:Arial, Helvetica, sans-serif">{{ item.answer }}</p>
       </div>
       {% endfor %}

@@ -58,9 +58,9 @@ header.masthead { text-align: center; color: white; background-image: url("../im
 
 header.masthead .intro-text { padding-top: 150px; padding-bottom: 100px; }
 
-header.masthead .intro-text .intro-lead-in { font-size: 22px; font-style: bold; line-height: 22px; margin-bottom: 25px; font-family: 'Rouge Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; }
+header.masthead .intro-text .intro-lead-in { font-size: 40px; font-style: bold; line-height: 22px; margin-bottom: 25px; font-family: 'Rouge Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; }
 
-header.masthead .intro-text .intro-heading { font-size: 50px; font-weight: 700; line-height: 50px; margin-bottom: 25px; font-family: 'Satisfy', cursive, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; }
+header.masthead .intro-text .intro-heading { font-size: 30px; font-weight: 700; line-height: 50px; margin-bottom: 25px; font-family: 'Satisfy', cursive, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; }
 
 header.masthead .btn { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; }
 
@@ -168,7 +168,7 @@ header.masthead .btn { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI
 
 .team-member p { margin-top: 0; }
 
-section#contact { background-color: #212529; background-size: cover; background-image: url("../img/map-image.jpg"); background-repeat: no-repeat; background-position: center; }
+section#contact { background-color: #212529; background-size: cover; background-image: url("../img/map-image.jpg"); background-repeat: no-repeat; background-position: left; }
 
 section#contact .h3 { padding-bottom: 0px; }
 
