@@ -51,7 +51,7 @@ header.masthead {
         line-height: 75px;
         margin-bottom: 50px;
         // @include heading-font;
-        @include script-font-3;
+        @include nav-font;
       }
     }
   }
