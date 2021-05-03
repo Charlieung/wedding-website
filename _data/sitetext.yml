@@ -34,7 +34,7 @@ en: &DEFAULT_EN
 
   location:
     title: "Location"
-    text: "Our wedding will be hosted by the Swan Club, a beautiful <br/> waterfront venue in Roslyn Harbor, Long Island"
+    text: "Our wedding will be hosted by the Swan Club, a beautiful waterfront venue in Roslyn Harbor, Long Island"
     section: location
 
   portfolio:

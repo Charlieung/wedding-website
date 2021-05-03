@@ -18,5 +18,12 @@
   font-family: 'Sacramento', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 @mixin nav-font {
-  font-family: 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  // font-family: 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: Raleway, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+@mixin sans-font {
+  font-family: Raleway, Helvetica, sans-serif;
+  font-weight: bold;
 }

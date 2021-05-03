@@ -105,6 +105,7 @@
     > p {
       margin-bottom: 0;
     }
+    @include sans-font;
   }
 }
 @media(min-width:768px) {

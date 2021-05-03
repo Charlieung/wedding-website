@@ -19,5 +19,6 @@
   }
   p {
     margin-top: 0;
+    @include nav-font;
   }
 }
