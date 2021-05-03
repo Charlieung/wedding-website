@@ -8,9 +8,9 @@
         </div>
       </div>
       {%- for item in site.data.sitetext[site.locale].faq.questions -%}
-      <div class="container">
-        <p style="font-family:Raleway, Helvetica, sans-serif; font-size:24px"><u><b>{{ item.question }}</b></u></p>
-        <p style="font-family:Raleway, Helvetica, sans-serif;"><b>{{ item.answer }}</b></p>
+      <div class="container" style="font-family:Raleway, Helvetica, sans-serif; font-weight:bold;">
+        <p style="font-size:24px; background-color: #dee2e6;">{{ item.question }}</p>
+        <p >{{ item.answer }}</p>
       </div>
       {% endfor %}
     </div>
