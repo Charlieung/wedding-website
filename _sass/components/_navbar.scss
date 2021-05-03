@@ -1,5 +1,6 @@
 // Styling for the navbar
 #mainNav {
+  // position: sticky;
   background-color: $gray-900;
   .navbar-toggler {
     font-size: 12px;
@@ -9,7 +10,8 @@
     color: white;
     border: 0;
     background-color: $primary;
-    @include heading-font;
+    // margin-right: 3cm;
+    @include nav-font;
   }
   .navbar-brand {
     color: $primary;
