@@ -114,6 +114,8 @@ en: &DEFAULT_EN
   faq:
     title: "Questions"
     questions:
+      - question: "Do you have a wedding registry?"
+        answer: "Yes! You can find our registry <a href=https://www.amazon.com/wedding/share/leungwildandfree>here</a>!"
       - question: "What should I wear? Is there a dress code?"
         answer: "The dress code for our wedding is cocktail attire. Ladies should wear cocktail dresses, and the gentlemen should wear a suit jacket or a sports coat."
       - question: "What will the weather be like this time of year?"
